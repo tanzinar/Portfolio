@@ -10,3 +10,8 @@ h2 {
 }
 h2 { color: white;}
 p {color: white;}
+li {
+  background: #cce5ff;
+  color: darkblue;
+  margin: 5px;
+}
